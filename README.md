@@ -8,7 +8,7 @@ Beamforming package for Xdas
 pip install "git+https://github.com/atrabattoni/xbeam.git"
 ```
 
-## Developement
+## Development
 
 ```
 git clone "https://github.com/atrabattoni/xbeam.git"
@@ -16,3 +16,6 @@ cd xbeam
 pip install -e .
 ```
 
+## Tutorial 
+
+See `examples/notebool.ipynb`
